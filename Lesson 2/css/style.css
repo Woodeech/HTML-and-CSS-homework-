@@ -1,0 +1,13 @@
+body {
+    color: white;
+    background-color: black;
+}
+a {
+    color: rgb(233, 141, 2);
+}
+nav a {
+    color: rgb(230, 74, 47);
+}
+.copy {
+     line-height: 70; /* попробовал изменить размещение года и копирайта внизу страницы */
+}
